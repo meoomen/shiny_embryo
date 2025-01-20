@@ -1,5 +1,5 @@
 # shiny_embryo
-Scripts for shiny app to visualize mammalian preimplantation embryo data in mouse, pig, cow, rabbit and rhesus. 
+Scripts for shiny app to visualize mammalian preimplantation embryo data in mouse, pig, cow, rabbit and rhesus, matching our [publication](https://www.cell.com/cell/fulltext/S0092-8674(24)01426-0). 
 
 For easy exploration of the data, use our [online shiny app](https://embryo.helmholtz-munich.de/shiny_embryo/) 
 
